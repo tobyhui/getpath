@@ -8,7 +8,7 @@ $ npm install getpath
 ```
 
 ``` javascript
-import getpath from "getpath"
+import getpath from "getath"
 
 getpath(object, "path1.path2", "string")
 
