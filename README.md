@@ -14,10 +14,13 @@ getpath(object, "path1.path2", "string")
 
 // or 
 
-getpath(objecy, {
+getpath(object, {
   // path:["path1","path2"],
   path:"path1.path2",
-  type:"string"
+  type:"string",
+  // type[default]: "auto", return (false) when get Value error
+  // vaild:""
+  // fallback: false 
 })
 
 ```
