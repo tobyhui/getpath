@@ -1,13 +1,13 @@
 /*
  * @Author: Toby
- * @Date: 2020-06-15 15:45:29
+ * @Date: 2020-06-16 16:35:45
  * @LastEditors: Toby
- * @LastEditTime: 2020-06-16 18:24:43
- * @FilePath: /gotpath/src/index.ts
+ * @LastEditTime: 2020-06-16 18:24:10
+ * @FilePath: /gotpath/src/gotpath/index.ts
  */
 
-import gotpathOption from './gotpath/option';
-import gotvalue from './gotvalue';
+import gotpathOption from './option';
+import gotvalue from '../gotvalue';
 /**
  * 
  * @param objData 
@@ -16,7 +16,7 @@ import gotvalue from './gotvalue';
  * @param vaild 
  */
 function gotpath(objData: {}, option: any, vaild: string): any {
-  // got value
+  // get value
 	const config = {
     objData,
     ...gotpathOption(option)

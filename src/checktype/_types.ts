@@ -1,4 +1,4 @@
-export interface getvalueConfig {
+export interface gotvalueConfig {
 	data: any;
 	expectType: string
 }

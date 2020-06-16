@@ -1,11 +1,11 @@
 {
-  "name": "getpath",
+  "name": "gotpath",
   "version": "0.0.1",
   "description": "",
   "keywords": [],
-  "main": "dist/getpath.umd.js",
-  "module": "dist/getpath.es5.js",
-  "typings": "dist/types/getpath.d.ts",
+  "main": "dist/gotpath.umd.js",
+  "module": "dist/gotpath.es5.js",
+  "typings": "dist/types/gotpath.d.ts",
   "files": [
     "dist"
   ],

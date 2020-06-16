@@ -3,7 +3,7 @@
  * @Date: 2020-06-16 14:06:54
  * @LastEditors: Toby
  * @LastEditTime: 2020-06-16 14:15:36
- * @FilePath: /getpath/src/getValue/_types.ts
+ * @FilePath: /gotpath/src/getValue/_types.ts
  */
 
 /* export interface getvalueConfig {
