@@ -1,0 +1,14 @@
+{
+	"brace_style": "none,preserve-inline",
+	"indent_size": 2,
+	"indent_char": "\t",
+	"jslint_happy": true,
+	"html": {
+		"wrap_line_length": 180,
+		"wrap-attributes":"auto"
+	},
+	"css": {
+		"allowed_file_extensions": ["css", "less"],
+		"indent_size": 2
+	}
+}
